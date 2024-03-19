@@ -1,11 +1,11 @@
 <div class="vs-menu-wrapper">
     <div class="vs-menu-area text-center"><button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
-      <div class="mobile-logo"><a href="index.php"><img src="images/logo .png"
+      <div class="mobile-logo"><a href="./"><img src="images/logo .png"
             alt="facials or lash extension services"></a>
       </div>
       <div class="vs-mobile-menu">
         <ul>
-          <li><a href="index.php">Home</a></li>
+          <li><a href="./">Home</a></li>
           <li class="menu-item-has-children"><a href="#">Service</a>
             <ul class="sub-menu">
               <li><a href="haircuts.php">Haircuts</a></li>
@@ -60,14 +60,14 @@
         <div class="container">
           <div class="row justify-content-between align-items-center gx-60">
             <div class="col-auto">
-              <div class="header-logo"><a href="index.php"><img src="images/logo .png"
+              <div class="header-logo"><a href="./"><img src="images/logo .png"
                     alt="Schedule your appointment today!"></a>
               </div>
             </div>
             <div class="col-auto">
               <nav class="main-menu menu-style1 d-none d-lg-block">
                 <ul>
-                  <li><a href="index.php">Home</a></li>
+                  <li><a href="./">Home</a></li>
 
 
 
